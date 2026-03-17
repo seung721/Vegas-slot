@@ -1,9 +1,9 @@
 import { useState } from "react"
-import Reel from "./Reel"
-import Lever from "./Lever"
+import Reel from "./assets/Reel"
+import Lever from "./assets/Lever"
 import "./App.css"
 
-const symbols = ["🍒","🍋","🔔","💎","7️⃣","⭐","🍊"]
+const symbols = ["🍒","🍄","💎","7️⃣","⭐","🍊","☠️","💰"]
 
 export default function App(){
 
